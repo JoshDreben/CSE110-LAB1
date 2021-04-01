@@ -37,4 +37,9 @@ Over the past few years I've dabbled and worked on a number of little projects b
 
 3. [UC Woodland Hills](https://ucwh.wtf)
 
-> Also over quarantine, I wanted to find new ways to keep me and my friends connected in entertaining ways, so I came up with the concept of a parody college website named after my city where my friends can apply through a funny application process to become a "student" at **UC Woodland Hills**. I developed the website using **React, Redux, MongoDB, and Express JS.**
+> I wanted to find new ways to keep me and my friends connected in entertaining ways during quarantine, so I came up with this concept: A parody college website named after my city where my friends and I could apply through a funny application process to become a "student" at **UC Woodland Hills**. I developed the website using **React, Redux, MongoDB, and Express JS.**
+
+## What's Left
+
+- [ ] Graduate from UCSD in 2022
+- [ ] Get a rockin' internship
