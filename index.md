@@ -5,6 +5,8 @@ Contents:
 * [Projects](https://github.com/JoshDreben/CSE110-LAB1/blob/main/index.md#Projects)
 * [What's Left](https://github.com/JoshDreben/CSE110-LAB1/blob/main/index.md#whats-left)
 
+![Me in the stu!](other_imgs/me.JPG)
+
 ## A Little About Me
 
 - I live in the **East Village** NY, NY 🗽🏢
