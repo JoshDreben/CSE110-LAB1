@@ -31,7 +31,7 @@ Contents:
 
    While I love software engineering, I am just as passionate about music and the music industry. Tezan Records is a **community of artists** that will eventually have a centralized, in-house production, engineering, marketing, and advertisement capabilities. I developed both the front end and back end of the website using **Next JS, PostgreSQL, and AWS RDS**.
 
-2. [Stock Trading Algorithm](https://https://github.com/JoshDreben/overnight_algo)
+2. [Stock Trading Algorithm](https://github.com/JoshDreben/overnight_algo)
 
    Over the course of quarantine I became interested in various areas in data science, one of them being algorithmic trading. This particular project is a (marginally successful) **trading bot** that interfaces with the **Alpaca Trading API** and utilizes **Pandas** and **Numpy** to implement an "overnight hold" algorithm.
 
