@@ -3,6 +3,7 @@
 Contents:
 * [A Little About Me](https://github.com/JoshDreben/CSE110-LAB1/blob/main/index.md#a-little-about-me)
 * [Projects](https://github.com/JoshDreben/CSE110-LAB1/blob/main/index.md#Projects)
+* [What's Left](https://github.com/JoshDreben/CSE110-LAB1/blob/main/index.md#whats-left)
 
 ![Me in the stu!](other_imgs/me.JPG)
 
