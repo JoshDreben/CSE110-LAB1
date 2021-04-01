@@ -1,5 +1,3 @@
-# 👋 Hi There, I'm Josh! 👋
-
 Contents:
 * [A Little About Me](https://github.com/JoshDreben/CSE110-LAB1/blob/main/index.md#a-little-about-me)
 * [Projects](https://github.com/JoshDreben/CSE110-LAB1/blob/main/index.md#Projects)
