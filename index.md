@@ -42,5 +42,6 @@ Over the past few years I've dabbled and worked on a number of little projects b
 
 ## What's Left
 
-- [ ] Graduate from UCSD in 2022
-- [ ] Get a rockin' internship
+[ ] Graduate from UCSD in 2022
+
+[ ] Get a rockin' internship
