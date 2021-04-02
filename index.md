@@ -5,6 +5,8 @@ Contents:
 
 ![Me in the stu!](other_imgs/me.JPG)
 
+[Open This Image](other_imgs/me.JPG)
+
 ## A Little About Me
 
 - I live in the **East Village** NY, NY 🗽🏢
